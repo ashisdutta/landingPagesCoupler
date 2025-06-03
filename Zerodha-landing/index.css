@@ -1,0 +1,20 @@
+.div1{
+    display:flex;
+    justify-content: space-between; 
+    padding-left: 100px; 
+    padding-right: 200px; 
+    box-shadow: 2px 1px 2px #eee;
+}
+
+.toplink{
+    padding-left: 20px;
+    color:#666;
+}
+
+.clickbutton{
+    padding:10px 20px 10px 20px;
+    font-size: 15px; 
+    background-color:#387ed1; 
+    border-radius: 4px; 
+    border-color: #387ed1;
+}

@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+
+
+
+.navbar2{
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+}
+
+.nav2-logo {
+    height: 50px;
+    width: 100px;
+}
+
+.logo {
+    background-image: url(logo.png);
+    height: 50px;
+    width: 80px;
+    background-size:cover;
+}
